@@ -1,2 +1,3 @@
 node_modules/
 bottle-detection/backend/node_modules/
+yolo/yolov3.weights
